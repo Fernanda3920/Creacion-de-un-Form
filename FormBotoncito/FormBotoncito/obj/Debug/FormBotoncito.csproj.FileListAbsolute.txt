@@ -1,0 +1,7 @@
+C:\Users\ferna\source\repos\FormBotoncito\FormBotoncito\bin\Debug\FormBotoncito.exe.config
+C:\Users\ferna\source\repos\FormBotoncito\FormBotoncito\bin\Debug\FormBotoncito.exe
+C:\Users\ferna\source\repos\FormBotoncito\FormBotoncito\bin\Debug\FormBotoncito.pdb
+C:\Users\ferna\source\repos\FormBotoncito\FormBotoncito\obj\Debug\FormBotoncito.csproj.AssemblyReference.cache
+C:\Users\ferna\source\repos\FormBotoncito\FormBotoncito\obj\Debug\FormBotoncito.csproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\FormBotoncito\FormBotoncito\obj\Debug\FormBotoncito.exe
+C:\Users\ferna\source\repos\FormBotoncito\FormBotoncito\obj\Debug\FormBotoncito.pdb
